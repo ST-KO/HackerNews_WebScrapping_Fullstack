@@ -1,92 +1,92 @@
 [
   {
     "id": 1,
-    "title": "The Origins of DS_store (2006)",
-    "url": "https://www.arno.org/on-the-origins-of-ds-store",
-    "author": "edavis",
-    "points": "152 points",
-    "time": "4 hours ago",
-    "numOfComments": "63 comments"
+    "title": "Ask HN: Vision Pro owners, are you still using it?",
+    "url": "item?id=40872102",
+    "author": "cheerioty",
+    "points": "76 points",
+    "time": "24 minutes ago",
+    "numOfComments": "9 comments"
   },
   {
     "id": 2,
-    "title": "Show HN: Xcapture-BPF – like Linux top, but with Xray vision",
-    "url": "https://0x.tools/",
-    "author": "tanelpoder",
-    "points": "168 points",
+    "title": "The Origins of DS_store (2006)",
+    "url": "https://www.arno.org/on-the-origins-of-ds-store",
+    "author": "edavis",
+    "points": "201 points",
     "time": "5 hours ago",
-    "numOfComments": "21 comments"
+    "numOfComments": "105 comments"
   },
   {
     "id": 3,
-    "title": "The Joy of Reading Books You Don't Understand",
-    "url": "https://reactormag.com/the-joy-of-reading-books-you-dont-entirely-understand/",
-    "author": "speckx",
-    "points": "81 points",
-    "time": "4 hours ago",
-    "numOfComments": "38 comments"
+    "title": "Show HN: Xcapture-BPF – like Linux top, but with Xray vision",
+    "url": "https://0x.tools/",
+    "author": "tanelpoder",
+    "points": "190 points",
+    "time": "6 hours ago",
+    "numOfComments": "22 comments"
   },
   {
     "id": 4,
-    "title": "The History of Machine Learning in Trackmania",
-    "url": "https://hallofdreams.org/posts/trackmania-1/",
-    "author": "Philpax",
-    "points": "40 points",
-    "time": "4 hours ago",
-    "numOfComments": "4 comments"
+    "title": "The Joy of Reading Books You Don't Understand",
+    "url": "https://reactormag.com/the-joy-of-reading-books-you-dont-entirely-understand/",
+    "author": "speckx",
+    "points": "108 points",
+    "time": "6 hours ago",
+    "numOfComments": "52 comments"
   },
   {
     "id": 5,
     "title": "Beating NumPy matrix multiplication in 150 lines of C",
     "url": "https://salykova.github.io/matmul-cpu",
     "author": "p1esk",
-    "points": "64 points",
-    "time": "4 hours ago",
-    "numOfComments": "3 comments"
+    "points": "107 points",
+    "time": "6 hours ago",
+    "numOfComments": "13 comments"
   },
   {
     "id": 6,
-    "title": "Why Alaska Rivers Are Turning an Eerie Orange",
-    "url": "https://www.atlasobscura.com/articles/why-alaska-rivers-are-turning-an-eerie-orange",
-    "author": "rbanffy",
-    "points": "62 points",
-    "time": "4 hours ago",
-    "numOfComments": "26 comments"
+    "title": "Sans-IO: The secret to effective Rust for network services",
+    "url": "https://www.firezone.dev/blog/sans-io",
+    "author": "wh33zle",
+    "points": "6 points",
+    "time": "49 minutes ago",
+    "numOfComments": "discuss"
   },
   {
     "id": 7,
-    "title": "A practical introduction to constraint programming using CP-SAT and Python",
-    "url": "https://pganalyze.com/blog/a-practical-introduction-to-constraint-programming-using-cp-sat",
-    "author": "lfittl",
-    "points": "166 points",
-    "time": "9 hours ago",
-    "numOfComments": "17 comments"
+    "title": "Well-known paradox of R-squared is still buggin me",
+    "url": "https://statmodeling.stat.columbia.edu/2024/06/17/this-well-known-paradox-of-r-squared-is-still-buggin-me-can-you-help-me-out/",
+    "author": "luu",
+    "points": "13 points",
+    "time": "2 hours ago",
+    "numOfComments": "discuss"
   },
   {
     "id": 8,
-    "title": "Introduction to Program Synthesis",
-    "url": "https://people.csail.mit.edu/asolar/SynthesisCourse/Lecture1.htm",
-    "author": "squircle",
-    "points": "18 points",
-    "time": "2 hours ago",
-    "numOfComments": "7 comments"
+    "title": "The History of Machine Learning in Trackmania",
+    "url": "https://hallofdreams.org/posts/trackmania-1/",
+    "author": "Philpax",
+    "points": "53 points",
+    "time": "5 hours ago",
+    "numOfComments": "6 comments"
   },
   {
     "id": 9,
     "title": "The Sphere",
     "url": "https://mssv.net/2024/07/02/the-sphere/",
     "author": "adrianhon",
-    "points": "8 points",
-    "time": "2 hours ago",
-    "numOfComments": "2 comments"
+    "points": "35 points",
+    "time": "3 hours ago",
+    "numOfComments": "8 comments"
   },
   {
     "id": 10,
-    "title": "The Cheapest NAS",
-    "url": "https://sigwait.org/~alex/blog/2024/07/01/the-cheapest-nas.html",
-    "author": "henry_flower",
-    "points": "163 points",
-    "time": "9 hours ago",
-    "numOfComments": "170 comments"
+    "title": "A practical introduction to constraint programming using CP-SAT and Python",
+    "url": "https://pganalyze.com/blog/a-practical-introduction-to-constraint-programming-using-cp-sat",
+    "author": "lfittl",
+    "points": "173 points",
+    "time": "11 hours ago",
+    "numOfComments": "19 comments"
   }
 ]

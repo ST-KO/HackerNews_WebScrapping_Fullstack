@@ -1,11 +1,11 @@
 id,title,url,author,points,time,numOfComments
-1,The Origins of DS_store (2006),https://www.arno.org/on-the-origins-of-ds-store,edavis,181 points,5 hours ago,93 comments
-2,"Show HN: Xcapture-BPF – like Linux top, but with Xray vision",https://0x.tools/,tanelpoder,186 points,6 hours ago,22 comments
-3,The Joy of Reading Books You Don't Understand,https://reactormag.com/the-joy-of-reading-books-you-dont-entirely-understand/,speckx,104 points,5 hours ago,47 comments
-4,Beating NumPy matrix multiplication in 150 lines of C,https://salykova.github.io/matmul-cpu,p1esk,97 points,5 hours ago,10 comments
-5,The History of Machine Learning in Trackmania,https://hallofdreams.org/posts/trackmania-1/,Philpax,53 points,5 hours ago,6 comments
-6,A practical introduction to constraint programming using CP-SAT and Python,https://pganalyze.com/blog/a-practical-introduction-to-constraint-programming-using-cp-sat,lfittl,170 points,10 hours ago,19 comments
-7,Well-known paradox of R-squared is still buggin me,https://statmodeling.stat.columbia.edu/2024/06/17/this-well-known-paradox-of-r-squared-is-still-buggin-me-can-you-help-me-out/,luu,8 points,2 hours ago,discuss
-8,Introduction to Program Synthesis,https://people.csail.mit.edu/asolar/SynthesisCourse/Lecture1.htm,squircle,31 points,3 hours ago,10 comments
-9,The Sphere,https://mssv.net/2024/07/02/the-sphere/,adrianhon,27 points,3 hours ago,7 comments
-10,Why Alaska Rivers Are Turning an Eerie Orange,https://www.atlasobscura.com/articles/why-alaska-rivers-are-turning-an-eerie-orange,rbanffy,70 points,6 hours ago,31 comments
+1,"Ask HN: Vision Pro owners, are you still using it?",item?id=40872102,cheerioty,98 points,34 minutes ago,18 comments
+2,The Origins of DS_store (2006),https://www.arno.org/on-the-origins-of-ds-store,edavis,206 points,6 hours ago,108 comments
+3,"Show HN: Xcapture-BPF – like Linux top, but with Xray vision",https://0x.tools/,tanelpoder,191 points,7 hours ago,22 comments
+4,The Joy of Reading Books You Don't Understand,https://reactormag.com/the-joy-of-reading-books-you-dont-entirely-understand/,speckx,110 points,6 hours ago,53 comments
+5,Beating NumPy matrix multiplication in 150 lines of C,https://salykova.github.io/matmul-cpu,p1esk,107 points,6 hours ago,13 comments
+6,Sans-IO: The secret to effective Rust for network services,https://www.firezone.dev/blog/sans-io,wh33zle,10 points,59 minutes ago,1 comment
+7,Well-known paradox of R-squared is still buggin me,https://statmodeling.stat.columbia.edu/2024/06/17/this-well-known-paradox-of-r-squared-is-still-buggin-me-can-you-help-me-out/,luu,14 points,3 hours ago,1 comment
+8,The History of Machine Learning in Trackmania,https://hallofdreams.org/posts/trackmania-1/,Philpax,55 points,5 hours ago,6 comments
+9,The Sphere,https://mssv.net/2024/07/02/the-sphere/,adrianhon,36 points,3 hours ago,10 comments
+10,A practical introduction to constraint programming using CP-SAT and Python,https://pganalyze.com/blog/a-practical-introduction-to-constraint-programming-using-cp-sat,lfittl,174 points,11 hours ago,19 comments

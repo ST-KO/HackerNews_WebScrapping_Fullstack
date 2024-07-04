@@ -1,8 +1,6 @@
 import express from "express";
 import cors from "cors";
-// import "dotenv/config.js";
 import dotenv from "dotenv";
-import { saveHackerNewsArticles } from "./saveHackerNewsArticle.js";
 import http from "http";
 import { Server } from "socket.io";
 import articleRoute from "./routes/articlesRoute.js";
@@ -47,17 +45,6 @@ io.on("connection", (socket) => {
 
 // Attach Socket.io instance to app
 app.set("socketio", io);
-
-// app.post("/api/save-articles", async (req, res) => {
-//   try {
-//     const promptAnswers = req.body;
-//     const data = await saveHackerNewsArticles(promptAnswers, io);
-//     res.status(200).json({ message: "Articles processed successfully", data });
-//   } catch (error) {
-//     console.log(error);
-//     res.status(500).send("An error occured: " + error.message);
-//   }
-// });
 
 server.listen(port, () => {
   console.log(`Server is running at port: ${port}`);

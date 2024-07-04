@@ -1,6 +1,4 @@
 import { chromium } from "playwright";
-
-// import { promptQuestionsAndAnswers } from "./utils/promptQuestionsAndAnswers.js";
 import { sendEmail } from "./utils/sendEmail.js";
 import { saveFile } from "./utils/saveFile.js";
 import { extractData } from "./utils/extractData.js";
@@ -15,6 +13,7 @@ export async function saveHackerNewsArticles(promptAnswers, io) {
     // Launch browser
     console.log("Launching browser...");
     io.emit("loading", "Launching browser...");
+
     const browser = await chromium.launch({ headless: false });
     const context = await browser.newContext();
     const page = await context.newPage();
@@ -22,6 +21,7 @@ export async function saveHackerNewsArticles(promptAnswers, io) {
     // Go to Hacker News
     console.log("Waiting for Hacker News...");
     io.emit("loading", "Waiting for Hacker News...");
+
     await page.goto("https://news.ycombinator.com");
 
     // Extract data from Hacker News using the reusable extractData function
@@ -55,7 +55,9 @@ export async function saveHackerNewsArticles(promptAnswers, io) {
     if (promptAnswers.email) {
       console.log("Sending the requested data file to your email...");
       io.emit("loading", "Sending the requested data file to your email...");
+
       await sendEmail(filePath, promptAnswers.email);
+
       console.log("Email has been sent successfully!");
       io.emit("loading", "Email has been sent successfully!");
     }
@@ -66,7 +68,3 @@ export async function saveHackerNewsArticles(promptAnswers, io) {
     console.error("An error occurred: ", error);
   }
 }
-
-// (async () => {
-//   await saveHackerNewsArticles();
-// })();
