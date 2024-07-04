@@ -41,7 +41,7 @@ io.on("connection", (socket) => {
 // Attach Socket.io instance to app
 app.set("socketio", io);
 
-app.getConnections("/", async (req, res) => {
+app.get("/", async (req, res) => {
   try {
     res.status(200).send("Server is running");
   } catch (error) {
