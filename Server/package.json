@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon server.js",
-    "postinstall": "playwright install"
+    "postinstall": "playwright install --with-deps chromium"
   },
   "keywords": [],
   "author": "",
