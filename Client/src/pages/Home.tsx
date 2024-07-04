@@ -1,4 +1,3 @@
-import React from "react";
 import HackerNewsForm from "../components/HackerNewsForm";
 import Heading from "../components/Heading";
 

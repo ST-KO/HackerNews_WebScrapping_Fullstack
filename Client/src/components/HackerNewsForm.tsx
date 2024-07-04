@@ -5,7 +5,9 @@ import { useNavigate } from "react-router-dom";
 import Loading from "./Loading";
 import io from "socket.io-client";
 
-const socket = io("http://localhost:3000");
+const serverURL = import.meta.env.VITE_APP_BACKEND_URL;
+
+const socket = io(serverURL);
 
 interface FormData {
   numberOfArticles: number;
@@ -60,10 +62,7 @@ const HackerNewsForm: React.FC = () => {
     try {
       setLoading(true);
       setLoadingMessage("Submitting...");
-      const response = await axios.post(
-        "http://localhost:3000/api/save-articles",
-        data
-      );
+      const response = await axios.post(`${serverURL}/api/save-articles`, data);
 
       setArticles(response.data.data);
 
