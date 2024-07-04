@@ -41,6 +41,15 @@ io.on("connection", (socket) => {
 // Attach Socket.io instance to app
 app.set("socketio", io);
 
+server.getConnections("/", async (req, res) => {
+  try {
+    res.status(200).send("Server is running");
+  } catch (error) {
+    console.log(error);
+    res.status(500).json({ message: error });
+  }
+});
+
 server.listen(port, () => {
   console.log(`Server is running at port: ${port}`);
 });
