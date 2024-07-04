@@ -5,9 +5,10 @@ interface ArticlesContextType {
   setArticles: React.Dispatch<React.SetStateAction<any[]>>;
 }
 
-export const ArticlesContext = createContext<ArticlesContextType | undefined>(
-  undefined
-);
+export const ArticlesContext = createContext<ArticlesContextType>({
+  articles: [],
+  setArticles: () => {},
+});
 
 interface ArticlesContextProviderProps {
   children: ReactNode;
