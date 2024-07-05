@@ -14,7 +14,7 @@ export async function saveHackerNewsArticles(promptAnswers, io) {
     console.log("Launching browser...");
     io.emit("loading", "Launching browser...");
 
-    const browser = await chromium.launch({ headless: false });
+    const browser = await chromium.launch({ headless: true });
     const context = await browser.newContext();
     const page = await context.newPage();
 
