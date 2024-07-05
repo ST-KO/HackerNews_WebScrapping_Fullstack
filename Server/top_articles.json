@@ -1,92 +1,92 @@
 [
   {
     "id": 1,
-    "title": "Ask HN: Vision Pro owners, are you still using it?",
-    "url": "item?id=40872102",
-    "author": "cheerioty",
-    "points": "76 points",
-    "time": "24 minutes ago",
-    "numOfComments": "9 comments"
+    "title": "SCIM: Ncurses based, Vim-like spreadsheet",
+    "url": "https://github.com/andmarti1424/sc-im",
+    "author": "emersonrsantos",
+    "points": "218 points",
+    "time": "9 hours ago",
+    "numOfComments": "55 comments"
   },
   {
     "id": 2,
-    "title": "The Origins of DS_store (2006)",
-    "url": "https://www.arno.org/on-the-origins-of-ds-store",
-    "author": "edavis",
-    "points": "201 points",
+    "title": "The Snapdragon X Elite's Adreno iGPU",
+    "url": "https://chipsandcheese.com/2024/07/04/the-snapdragon-x-elites-adreno-igpu/",
+    "author": "pella",
+    "points": "68 points",
     "time": "5 hours ago",
-    "numOfComments": "105 comments"
+    "numOfComments": "11 comments"
   },
   {
     "id": 3,
-    "title": "Show HN: Xcapture-BPF – like Linux top, but with Xray vision",
-    "url": "https://0x.tools/",
-    "author": "tanelpoder",
-    "points": "190 points",
-    "time": "6 hours ago",
-    "numOfComments": "22 comments"
+    "title": "Mechanical computer relies on kirigami cubes, not electronics",
+    "url": "https://news.ncsu.edu/2024/06/kirigami-mechanical-computer/",
+    "author": "gnabgib",
+    "points": "138 points",
+    "time": "11 hours ago",
+    "numOfComments": "82 comments"
   },
   {
     "id": 4,
-    "title": "The Joy of Reading Books You Don't Understand",
-    "url": "https://reactormag.com/the-joy-of-reading-books-you-dont-entirely-understand/",
-    "author": "speckx",
-    "points": "108 points",
-    "time": "6 hours ago",
-    "numOfComments": "52 comments"
+    "title": "Gravitational wave researchers cast new light on Antikythera mechanism mystery",
+    "url": "https://www.gla.ac.uk/news/headline_1086643_en.html",
+    "author": "ulrischa",
+    "points": "128 points",
+    "time": "8 hours ago",
+    "numOfComments": "76 comments"
   },
   {
     "id": 5,
-    "title": "Beating NumPy matrix multiplication in 150 lines of C",
-    "url": "https://salykova.github.io/matmul-cpu",
-    "author": "p1esk",
-    "points": "107 points",
-    "time": "6 hours ago",
-    "numOfComments": "13 comments"
+    "title": "The sad state of property-based testing libraries",
+    "url": "https://stevana.github.io/the_sad_state_of_property-based_testing_libraries.html",
+    "author": "nequo",
+    "points": "127 points",
+    "time": "12 hours ago",
+    "numOfComments": "69 comments"
   },
   {
     "id": 6,
-    "title": "Sans-IO: The secret to effective Rust for network services",
-    "url": "https://www.firezone.dev/blog/sans-io",
-    "author": "wh33zle",
-    "points": "6 points",
-    "time": "49 minutes ago",
-    "numOfComments": "discuss"
+    "title": "Bone tissue reparation using coral and marine sponges",
+    "url": "https://web.stanford.edu/group/mota/education/Physics%2087N%20Final%20Projects/Group%20Gamma/bone.htm",
+    "author": "alexandrehtrb",
+    "points": "17 points",
+    "time": "3 hours ago",
+    "numOfComments": "1 comment"
   },
   {
     "id": 7,
-    "title": "Well-known paradox of R-squared is still buggin me",
-    "url": "https://statmodeling.stat.columbia.edu/2024/06/17/this-well-known-paradox-of-r-squared-is-still-buggin-me-can-you-help-me-out/",
-    "author": "luu",
-    "points": "13 points",
-    "time": "2 hours ago",
-    "numOfComments": "discuss"
+    "title": "Analyzing my electricity consumption",
+    "url": "https://zdimension.fr/analyzing-my-electricity-consumption/",
+    "author": "skadamat",
+    "points": "174 points",
+    "time": "13 hours ago",
+    "numOfComments": "176 comments"
   },
   {
     "id": 8,
-    "title": "The History of Machine Learning in Trackmania",
-    "url": "https://hallofdreams.org/posts/trackmania-1/",
-    "author": "Philpax",
-    "points": "53 points",
-    "time": "5 hours ago",
-    "numOfComments": "6 comments"
+    "title": "Oldest cave art found",
+    "url": "https://www.bbc.com/news/articles/c0vewjq4dxwo",
+    "author": "rntn",
+    "points": "122 points",
+    "time": "13 hours ago",
+    "numOfComments": "57 comments"
   },
   {
     "id": 9,
-    "title": "The Sphere",
-    "url": "https://mssv.net/2024/07/02/the-sphere/",
-    "author": "adrianhon",
-    "points": "35 points",
-    "time": "3 hours ago",
-    "numOfComments": "8 comments"
+    "title": "Roku update turns on hated motion-smoothing feature, with no off switch",
+    "url": "https://boingboing.net/2024/07/04/roku-update-turns-on-hated-motion-smoothing-feature-with-no-off-switch.html",
+    "author": "thunderbong",
+    "points": "11 points",
+    "time": "55 minutes ago",
+    "numOfComments": "2 comments"
   },
   {
     "id": 10,
-    "title": "A practical introduction to constraint programming using CP-SAT and Python",
-    "url": "https://pganalyze.com/blog/a-practical-introduction-to-constraint-programming-using-cp-sat",
-    "author": "lfittl",
-    "points": "173 points",
-    "time": "11 hours ago",
-    "numOfComments": "19 comments"
+    "title": "Insights from over 10,000 comments on \"Ask HN: Who Is Hiring\" using GPT-4o",
+    "url": "https://tamerc.com/posts/ask-hn-who-is-hiring/",
+    "author": "comcuoglu",
+    "points": "259 points",
+    "time": "8 hours ago",
+    "numOfComments": "113 comments"
   }
 ]

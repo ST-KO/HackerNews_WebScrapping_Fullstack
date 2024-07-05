@@ -8,14 +8,13 @@ WORKDIR /app
 COPY package*.json ./
 
 # Install dependencies
-RUN npm install && \
-    npx playwright install
+RUN npm install
 
 # Copy the rest of your application code
 COPY . .
 
 # Install Playwright dependencies
-# RUN npx playwright install --with-deps
+RUN npx playwright install --with-deps
 
 # Expose the port the app runs on
 EXPOSE 3000

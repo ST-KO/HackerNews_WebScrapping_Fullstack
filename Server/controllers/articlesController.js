@@ -1,5 +1,4 @@
 import { saveHackerNewsArticles } from "../saveHackerNewsArticle.js";
-import { Server } from "socket.io";
 
 export const createArticles = async (req, res) => {
   try {
