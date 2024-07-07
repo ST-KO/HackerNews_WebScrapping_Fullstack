@@ -35,7 +35,7 @@ const Loading: React.FC<LoadingProps> = ({ loadingMessage }) => {
           </g>
         </svg>
       </div>
-      <span className="text-black text-lg font-normal leading-snug">
+      <span className="text-black text-lg font-normal leading-snug whitespace-pre-line">
         {loadingMessage}
       </span>
     </div>
