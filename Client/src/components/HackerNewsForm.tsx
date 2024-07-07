@@ -61,7 +61,9 @@ const HackerNewsForm: React.FC = () => {
 
     try {
       setLoading(true);
-      setLoadingMessage("Submitting...");
+      setLoadingMessage(
+        "Waking up the server due to free tier limitations on Render.com..."
+      );
       const response = await axios.post(`${serverURL}/api/save-articles`, data);
 
       setArticles(response.data.data);

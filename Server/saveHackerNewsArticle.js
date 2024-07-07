@@ -6,8 +6,6 @@ import { extractData } from "./utils/extractData.js";
 // Main function to save Hacker News articles
 export async function saveHackerNewsArticles(promptAnswers, io) {
   try {
-    io.emit("loading", "Waking up the server...");
-
     // Save user's input on the number of articles to retrieve and whether to include additional data
     let numberOfArticles = promptAnswers.numberOfArticles;
     let isGettingAdditionalData = promptAnswers.additionalData;
